@@ -111,7 +111,7 @@ h2 {
     <div class="container">
       <div class="header">
         <div class="img-area">
-            <img src="E:\Deep\deep\pics.jpg"alt="">
+            <img src="pics.jpg"alt="" />
         </div>
         <h1>Deep Mendapara</h1>
         <h3>Full-Stack Web Developer</h3>
